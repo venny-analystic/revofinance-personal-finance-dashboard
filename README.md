@@ -45,12 +45,20 @@ Based on these insights, I recommended:
 • Budget Variance Analysis  
 • Geospatial Spending Analysis  
 
+## Dataset
+The dataset used for financial spending analysis can be accessed below:
+
+[Download Dataset](dataset_finance.xlsx)
+
 ### Dataset Source
 Synthetic financial transaction dataset used for visualization and spending analysis.
 Dashboard:
 https://public.tableau.com/app/profile/venny.deslaweny
 
 # SECTION 4: KEY VISUALIZATIONS
+## Dashboard Preview
+
+![Finance Dashboard](finance_dashboard_visual.png)
 ### Elbow Method Plot
 Determines the optimal number of clusters (k=3) used for customer segmentation.
 ### Merchant Spending Concentration Chart
@@ -80,13 +88,9 @@ This analysis supports data-driven decisions across multiple business domains:
 The insights enable companies to **optimize marketing strategy, improve customer retention, and support financial health tracking for users.**
 
 ## Project Files
-revofinance-personal-finance-dashboard
+finance_dashboard_visual.png → Dashboard visualization
 
-│
-├── README.md
-├── Revofinance_personal_dashboard.pdf
-├── finance_dashboard_visual.png
-└── dataset_finance.csv
+dataset_finance.xlsx → Financial transaction dataset used in the analysis
 
 ## Author
 Venny Amilia Deslaweny
