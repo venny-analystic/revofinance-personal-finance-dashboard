@@ -45,8 +45,10 @@ Based on these insights, I recommended:
 • Budget Variance Analysis  
 • Geospatial Spending Analysis  
 
-### Dataset Source: 
-https://public.tableau.com/app/profile/venny.deslaweny/viz/W11ML2/Dashboard2?publish=yes
+### Dataset Source
+Synthetic financial transaction dataset used for visualization and spending analysis.
+Dashboard:
+https://public.tableau.com/app/profile/venny.deslaweny
 
 # SECTION 4: KEY VISUALIZATIONS
 ### Elbow Method Plot
@@ -60,7 +62,16 @@ Identifies operational causes of the 12% logistics damage rate.
 ### Price Sensitivity Scatter Plot
 Python-generated visualization demonstrating the **-0.82 correlation between product price and sales quantity**.
 
-# BUSINESS IMPACT
+## KEY INSIGHTS
+• Offline spending is heavily concentrated in Jakarta, indicating strong dependency on physical merchants.
+
+• A significant spending spike occurs in December, suggesting seasonal consumption behavior.
+
+• A small number of merchants contribute to a large portion of total spending.
+
+• Budget utilization often exceeds 80% toward the end of the year, increasing financial risk for users.
+
+## BUSINESS IMPACT
 This analysis supports data-driven decisions across multiple business domains:
 • Revenue optimization  
 • Customer risk management  
@@ -68,7 +79,14 @@ This analysis supports data-driven decisions across multiple business domains:
 • Operational efficiency improvement  
 The insights enable companies to **optimize marketing strategy, improve customer retention, and support financial health tracking for users.**
 
-# Project Files
+## Project Files
+revofinance-personal-finance-dashboard
 
-# Author
+│
+├── README.md
+├── Revofinance_personal_dashboard.pdf
+├── finance_dashboard_visual.png
+└── dataset_finance.csv
+
+## Author
 Venny Amilia Deslaweny
