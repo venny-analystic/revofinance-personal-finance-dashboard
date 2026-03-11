@@ -31,8 +31,6 @@ Based on these insights, I recommended:
 
 # SECTION 3: TOOLS & METHODS
 ### A. Tools
-• SQL (BigQuery)  
-• Python (Pandas, Scikit-learn, Seaborn, Scipy)  
 • Tableau / Looker Studio / Google Sheets  
 • Data Visualization Dashboards  
 • Technical Problem Solving (TPS) Framework
